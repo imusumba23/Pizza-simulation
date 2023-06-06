@@ -1,5 +1,5 @@
 # pizza-project
-This project uses a user interface on the command line. When the program is run, the available commands are displayed in a notice that describes how to run the commands.
+This project uses a user interface on the command line. When the program runs, the available commands are displayed in a notice that describes how to run the commands.
      Commands:   
      
        login DRIVER             : DRIVER is logged in      
